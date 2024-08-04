@@ -1,0 +1,16 @@
+/* Custom properties/variables  
+:root {
+
+} */
+
+.circle-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/*test background-color*/
+body{
+    background-color: aquamarine;
+}
